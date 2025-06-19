@@ -1,4 +1,4 @@
-module github.com/canispeakchinse/websocket
+module github.com/canispeakchinese/websocket
 
 go 1.20
 
